@@ -5,4 +5,4 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-include ':sample', ':ChipsLayoutManager'
+include ':ChipsLayoutManager'
